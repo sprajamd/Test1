@@ -1,4 +1,4 @@
-AA=20
+AA=2
 BA
 CC
 DD
