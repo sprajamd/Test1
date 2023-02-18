@@ -2,3 +2,6 @@ AA=100
 BA
 CC
 DD
+XX
+YY
+11
