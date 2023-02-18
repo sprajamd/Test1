@@ -1,6 +1,2 @@
 AA=100
-BA
-CC
-DD
-XX
-YY
+BR1
